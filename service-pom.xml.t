@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     
     <parent>
-        <groupId>com.techadit</groupId>
+        <groupId>##groupId</groupId>
         <artifactId>##artifactId</artifactId>        
         <version>1.0-SNAPSHOT</version>
     </parent>
@@ -22,7 +22,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.techadit</groupId>
+            <groupId>##groupIdt</groupId>
             <artifactId>##artifactId-model</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
